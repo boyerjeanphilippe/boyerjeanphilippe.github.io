@@ -1,0 +1,11 @@
+{
+  "semaine": "2026-11-02",
+  "exemple": true,
+  "jours": {
+    "2026-11-03": {"souper": "Tacos au poulet", "note": "Sans noix"},
+    "2026-11-04": {"souper": "Spaghetti sauce à la viande", "note": ""},
+    "2026-11-05": {"souper": "Saumon, riz et brocoli", "note": ""},
+    "2026-11-06": {"souper": "Pizza maison", "note": ""},
+    "2026-11-07": {"souper": "Soupe et grilled cheese", "note": ""}
+  }
+}
