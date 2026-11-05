@@ -1,7 +1,31 @@
 {
-  "semaine": "2026-11-09",
+  "semaine": "2026-11-02",
   "exemple": false,
   "jours": {
+    "2026-11-02": {
+      "souper": "Sauce bolognaise de Ricardo sur gemelli",
+      "note": "Double recette, moitié au congélateur"
+    },
+    "2026-11-03": {
+      "souper": "Poulet au beurre doux, épinards, chou-fleur et riz",
+      "note": "Sans ail, doux"
+    },
+    "2026-11-04": {
+      "souper": "Chaudrée de saumon, poireaux et maïs",
+      "note": "Instant Pot, 3 thermos jeudi"
+    },
+    "2026-11-05": {
+      "souper": "Pâté chinois de Salomé",
+      "note": "3 thermos vendredi"
+    },
+    "2026-11-06": {
+      "souper": "Mijoté de porc aux poireaux et paprika doux",
+      "note": "Souper de réserve, décongeler le porc la veille"
+    },
+    "2026-11-07": {
+      "souper": "Restes ou bolognaise du congélateur",
+      "note": "Décongeler une portion la veille"
+    },
     "2026-11-08": {
       "souper": "Poulet entier rôti aux herbes, pommes de terre et carottes",
       "note": "Sans ail; réserver carcasse pour la soupe de réserve"
