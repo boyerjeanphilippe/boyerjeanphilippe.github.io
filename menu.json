@@ -1,5 +1,5 @@
 {
-  "semaine": "2026-11-02",
+  "semaine": "2026-11-09",
   "exemple": false,
   "jours": {
     "2026-11-02": {
@@ -31,20 +31,20 @@
       "note": "Décongeler la sauce Ricardo la veille"
     },
     "2026-11-10": {
-      "souper": "Sauté de porc teriyaki, riz, brocoli et maïs",
-      "note": "Porc en cubes du congélateur (décongeler lundi); sans ail"
+      "souper": "Bolognaise congelée sur pâtes, brocoli",
+      "note": "Sauce Ricardo décongelée; 1 thermos mercredi"
     },
     "2026-11-11": {
-      "souper": "Poisson au four, riz et brocoli",
-      "note": "SeaQuest Maxi ou saumon Metro; 3 thermos jeudi"
+      "souper": "Poulet entier rôti aux herbes, pommes de terre et carottes",
+      "note": "Poulet au frigo; décongeler le porc pour jeudi"
     },
     "2026-11-12": {
-      "souper": "Poulet entier rôti aux herbes, pommes de terre et carottes",
-      "note": "Sans ail; réserver carcasse pour la soupe de réserve; 3 thermos vendredi"
+      "souper": "Sauté de porc teriyaki, riz, brocoli et maïs",
+      "note": "Porc en cubes du congélateur (décongeler mercredi); sans ail; 3 thermos vendredi"
     },
     "2026-11-13": {
       "souper": "Soupe-repas au poulet, poireaux et nouilles",
-      "note": "Réserve; carcasse du dimanche; Instant Pot"
+      "note": "Réserve; carcasse du mercredi; Instant Pot"
     }
   }
 }
