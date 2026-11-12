@@ -2,30 +2,6 @@
   "semaine": "2026-11-09",
   "exemple": false,
   "jours": {
-    "2026-11-02": {
-      "souper": "Sauce bolognaise de Ricardo sur gemelli",
-      "note": "Double recette, moitié au congélateur"
-    },
-    "2026-11-03": {
-      "souper": "Poulet au beurre doux, épinards, chou-fleur et riz",
-      "note": "Sans ail, doux"
-    },
-    "2026-11-04": {
-      "souper": "Chaudrée de saumon, poireaux et maïs",
-      "note": "Instant Pot, 3 thermos jeudi"
-    },
-    "2026-11-05": {
-      "souper": "Pâté chinois de Salomé",
-      "note": "3 thermos vendredi"
-    },
-    "2026-11-06": {
-      "souper": "Mijoté de porc aux poireaux et paprika doux",
-      "note": "Souper de réserve, décongeler le porc la veille"
-    },
-    "2026-11-07": {
-      "souper": "Restes ou bolognaise du congélateur",
-      "note": "Décongeler une portion la veille"
-    },
     "2026-11-09": {
       "souper": "Bolognaise congelée sur pâtes, brocoli",
       "note": "Décongeler la sauce Ricardo la veille"
@@ -45,6 +21,30 @@
     "2026-11-13": {
       "souper": "Soupe-repas au poulet, poireaux et nouilles",
       "note": "Réserve; carcasse du mercredi; Instant Pot"
+    },
+    "2026-11-15": {
+      "souper": "Filet de porc rôti aux herbes, courge poivrée et carottes, salade de concombre",
+      "note": "2 adultes; garder le 2e filet pour le chili de lundi; aucun thermos lundi"
+    },
+    "2026-11-16": {
+      "souper": "Chili doux de porc aux haricots noirs, courge et maïs, riz",
+      "note": "Instant Pot; sans ail, pas épicé; 1 thermos mardi"
+    },
+    "2026-11-17": {
+      "souper": "Cuisses de poulet braisées aux poireaux et carottes, riz et petits pois",
+      "note": "Instant Pot; poireaux du congélateur; 1 thermos mercredi; décongeler la truite au frigo"
+    },
+    "2026-11-18": {
+      "souper": "Sloppy Joe French's sur pains à hamburger, crudités",
+      "note": "Portion de Marion retirée avant le sachet (contient de l'ail); 3 thermos jeudi"
+    },
+    "2026-11-19": {
+      "souper": "Chaudrée de truite, poireaux, pommes de terre et maïs",
+      "note": "Instant Pot; soir poisson; 3 thermos vendredi"
+    },
+    "2026-11-20": {
+      "souper": "Gratin de pâtes au thon, petits pois et fromage",
+      "note": "Souper de réserve; thon et pâtes du garde-manger"
     }
   }
 }
