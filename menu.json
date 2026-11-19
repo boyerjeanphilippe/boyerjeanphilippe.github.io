@@ -1,31 +1,7 @@
 {
-  "semaine": "2026-11-09",
+  "semaine": "2026-11-16",
   "exemple": false,
   "jours": {
-    "2026-11-09": {
-      "souper": "Bolognaise congelée sur pâtes, brocoli",
-      "note": "Décongeler la sauce Ricardo la veille"
-    },
-    "2026-11-10": {
-      "souper": "Bolognaise congelée sur pâtes, brocoli",
-      "note": "Sauce Ricardo décongelée; 1 thermos mercredi"
-    },
-    "2026-11-11": {
-      "souper": "Poulet entier rôti aux herbes, pommes de terre et carottes",
-      "note": "Poulet au frigo; décongeler le porc pour jeudi"
-    },
-    "2026-11-12": {
-      "souper": "Poulet entier rôti aux herbes, pommes de terre et carottes",
-      "note": "Changé de mercredi; Russets et carottes de la maison; 3 thermos vendredi; garder la carcasse"
-    },
-    "2026-11-13": {
-      "souper": "Sauté de porc teriyaki, riz, brocoli et maïs",
-      "note": "Porc décongelé; sans ail; soupe-repas au poulet et poireaux en réserve (carcasse)"
-    },
-    "2026-11-15": {
-      "souper": "Filet de porc rôti aux herbes, courge poivrée et carottes, salade de concombre",
-      "note": "2 adultes; congeler le 2e filet pour une autre semaine; aucun thermos lundi"
-    },
     "2026-11-16": {
       "souper": "Chili doux aux haricots noirs, patates douces et maïs, riz",
       "note": "Instant Pot; sans viande, sans ail, pas épicé; patates douces de la maison; 1 thermos mardi"
@@ -41,6 +17,30 @@
     "2026-11-20": {
       "souper": "Gratin de pâtes au thon, petits pois et fromage",
       "note": "Souper de réserve; thon et pâtes du garde-manger"
+    },
+    "2026-11-22": {
+      "souper": "Spaghetti sauce à la viande et aux légumes",
+      "note": "Moitié du bœuf format club; 3 thermos lundi"
+    },
+    "2026-11-23": {
+      "souper": "Truite teriyaki, riz et brocoli",
+      "note": "Décongeler la truite dimanche soir; teriyaki maison sans ail; 1 thermos mardi"
+    },
+    "2026-11-24": {
+      "souper": "Soupe-repas au poulet, légumes et coudes",
+      "note": "Poulet du frigo; Instant Pot; coudes cuits à part; 1 thermos mercredi"
+    },
+    "2026-11-25": {
+      "souper": "Pilons de poulet braisés à la tomate, patates douces et riz",
+      "note": "Instant Pot; pas épicé; 3 thermos jeudi"
+    },
+    "2026-11-26": {
+      "souper": "Pâté chinois de Salomé",
+      "note": "2e moitié du bœuf; sans Worcestershire; 3 thermos vendredi"
+    },
+    "2026-11-27": {
+      "souper": "Filet de porc à l'érable, patates douces et salade de chou",
+      "note": "Souper de réserve; filet du congélateur (décongeler la veille)"
     }
   }
 }
