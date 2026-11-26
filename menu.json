@@ -1,27 +1,7 @@
 {
-  "semaine": "2026-11-16",
+  "semaine": "2026-11-23",
   "exemple": false,
   "jours": {
-    "2026-11-16": {
-      "souper": "Chili doux aux haricots noirs, patates douces et maïs, riz",
-      "note": "Instant Pot; sans viande, sans ail, pas épicé; patates douces de la maison; 1 thermos mardi"
-    },
-    "2026-11-17": {
-      "souper": "Cuisses de poulet braisées aux poireaux et carottes, riz et petits pois",
-      "note": "Instant Pot; poireaux du congélateur; 1 thermos mercredi"
-    },
-    "2026-11-19": {
-      "souper": "Sloppy Joe French's sur pains à hamburger, crudités",
-      "note": "Portion de Marion retirée avant le sachet (contient de l'ail); 3 thermos vendredi"
-    },
-    "2026-11-20": {
-      "souper": "Gratin de pâtes au thon, petits pois et fromage",
-      "note": "Souper de réserve; thon et pâtes du garde-manger"
-    },
-    "2026-11-22": {
-      "souper": "Truite teriyaki, riz et brocoli",
-      "note": "Décongeler la truite samedi soir; teriyaki maison sans ail; 3 thermos lundi"
-    },
     "2026-11-23": {
       "souper": "Poêlée de bœuf haché aux champignons et carottes, riz",
       "note": "Un des deux paquets de bœuf du panier; 1 thermos mardi"
@@ -41,6 +21,30 @@
     "2026-11-27": {
       "souper": "Filet de porc à l'érable, patates douces et salade de chou",
       "note": "Souper de réserve; filet du congélateur (décongeler la veille)"
+    },
+    "2026-11-29": {
+      "souper": "Poulet rôti aux herbes, riz pilaf, brocoli et carottes",
+      "note": "2 poulets entiers; carcasses → bouillon maison (Instant Pot) pour lundi; 3 thermos lundi"
+    },
+    "2026-11-30": {
+      "souper": "Ragoût de porc aux poireaux, carottes et pommes de terre",
+      "note": "Instant Pot; décongeler 2 sacs de cubes de porc dimanche; poireaux du congélateur; 1 thermos mardi"
+    },
+    "2026-12-01": {
+      "souper": "Bols de porc haché teriyaki, riz, brocoli et chou",
+      "note": "Teriyaki maison sans ail; ≈450 g du porc haché format club; 1 thermos mercredi"
+    },
+    "2026-12-02": {
+      "souper": "Truite à l'érable, pommes de terre rôties et petits pois",
+      "note": "Décongeler la truite mardi soir; pas épicé; 3 thermos jeudi"
+    },
+    "2026-12-03": {
+      "souper": "Chili doux au porc haché, haricots rouges et maïs, riz",
+      "note": "Reste du porc haché; sans ail ni poudre de chili; 3 thermos vendredi"
+    },
+    "2026-12-04": {
+      "souper": "Galettes de thon et pommes de terre, salade de chou",
+      "note": "Souper de réserve; friteuse à air; thon en conserve + œufs Costco"
     }
   }
 }
